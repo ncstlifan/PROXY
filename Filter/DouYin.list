@@ -1,0 +1,21 @@
+# Name: 抖音
+# Author：ncstlifan
+# Created Date： 2023/01/15
+# UpDated Date： 2023/01/15
+
+HOST-SUFFIX,amemv.com,抖音服务
+HOST-SUFFIX,ixigua.com,抖音服务
+HOST-SUFFIX,ixiguavideo.com,抖音服务
+HOST-SUFFIX,pstatp.com,抖音服务
+HOST-SUFFIX,snssdk.com,抖音服务
+HOST-SUFFIX,toutiao.com,抖音服务
+HOST-KEYWORD, ecombdapi, 抖音服务
+HOST-KEYWORD, zjurl, 抖音服务
+HOST-KEYWORD, douyinstatic, 抖音服务
+HOST-KEYWORD, zijieapi, 抖音服务
+HOST-KEYWORD, douyin, 抖音服务
+HOST-KEYWORD, douyinvod, 抖音服务
+HOST-KEYWORD, zjcdn, 抖音服务
+HOST-KEYWORD, douyinpic, 抖音服务
+HOST-KEYWORD, toutiao, 抖音服务
+
