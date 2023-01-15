@@ -122,10 +122,10 @@ IP-CIDR,203.107.1.0/24,BiliBili
 
 # NAME: BiliBiliIntl
 
-HOST,apm-misaka.biliapi.net,BiliBiliIntl
-HOST,p-bstarstatic.akamaized.net,BiliBiliIntl
-HOST,p.bstarstatic.com,BiliBiliIntl
-HOST,upos-bstar-mirrorakam.akamaized.net,BiliBiliIntl
-HOST,upos-bstar1-mirrorakam.akamaized.net,BiliBiliIntl
-HOST-SUFFIX,bilibili.tv,BiliBiliIntl
-HOST-SUFFIX,biliintl.com,BiliBiliIntl
+HOST,apm-misaka.biliapi.net,BiliBili
+HOST,p-bstarstatic.akamaized.net,BiliBili
+HOST,p.bstarstatic.com,BiliBili
+HOST,upos-bstar-mirrorakam.akamaized.net,BiliBili
+HOST,upos-bstar1-mirrorakam.akamaized.net,BiliBili
+HOST-SUFFIX,bilibili.tv,BiliBili
+HOST-SUFFIX,biliintl.com,BiliBili
