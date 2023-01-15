@@ -1,11 +1,8 @@
-
 # Name： China Area Network
 # Author：ncstlifan
 # Created Date： 2023/01/15
 # UpDated Date： 2023/01/15
-# 源 https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/china.list
-
-
+# 源 https://raw.githubusercontent.com/Semporia/Quantumult-X/master/Filter/china.list   实际代码607行，本代码600行。
 HOST,analytics.strava.com,大陆服务
 HOST,blzddist1-a.akamaihd.net,大陆服务
 HOST,cdn.angruo.com,大陆服务
@@ -431,10 +428,6 @@ HOST-SUFFIX,servicewechat.com,大陆服务
 HOST-SUFFIX,sf-express.com,大陆服务
 HOST-SUFFIX,sharepoint.com,大陆服务
 HOST-SUFFIX,siam.org,大陆服务
-HOST-SUFFIX,sina.com,大陆服务
-HOST-SUFFIX,sinaapp.com,大陆服务
-HOST-SUFFIX,sinaimg.cn,大陆服务
-HOST-SUFFIX,sinaimg.com,大陆服务
 HOST-SUFFIX,sm.ms,大陆服务
 HOST-SUFFIX,smartisan.com,大陆服务
 HOST-SUFFIX,smzdm.com,大陆服务
@@ -500,9 +493,6 @@ HOST-SUFFIX,wangsu.com,大陆服务
 HOST-SUFFIX,weather.com,大陆服务
 HOST-SUFFIX,webofknowledge.com,大陆服务
 HOST-SUFFIX,webqxs.com,大陆服务
-HOST-SUFFIX,weibo.cn,大陆服务
-HOST-SUFFIX,weibo.com,大陆服务
-HOST-SUFFIX,weibocdn.com,大陆服务
 HOST-SUFFIX,weico.cc,大陆服务
 HOST-SUFFIX,weidian.com,大陆服务
 HOST-SUFFIX,weiphone.net,大陆服务
