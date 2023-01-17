@@ -3172,8 +3172,19 @@ HOST-SUFFIX,wechat.com,China
 HOST-SUFFIX,wegame.com,China
 HOST-SUFFIX,wegamedeveloper.com,China
 HOST-SUFFIX,wegameplus.com,China
-HOST-SUFFIX,weibo.com,China
-HOST-SUFFIX,weibocdn.com,China
+
+# > 微博服务
+#HOST-SUFFIX,weibocdn.com,China
+#HOST-SUFFIX,weibo.com,微博服务
+#HOST-SUFFIX,weibo.cn,微博服务
+#HOST-SUFFIX,weibo.com,微博服务
+#HOST-SUFFIX,weibocdn.com,微博服务
+#HOST-SUFFIX,sinaapp.com,微博服务
+#HOST-SUFFIX,sinaimg.cn,微博服务
+#HOST-SUFFIX,sinaimg.com,微博服务
+#HOST-SUFFIX,sina.com,微博服务
+#HOST-SUFFIX,sina.cn,微博服务
+
 HOST-SUFFIX,weicaifu.com,China
 HOST-SUFFIX,weico.cc,China
 HOST-SUFFIX,weidian.com,China
