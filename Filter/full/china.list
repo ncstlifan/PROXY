@@ -16,12 +16,10 @@ HOST,blzddist1-a.akamaihd.net,China
 HOST,cdn.angruo.com,China
 HOST,cdp.cloud.unity3d.com,China
 HOST,client.amplifi.com,China
-HOST,dl.google.com,China
 HOST,download.jetbrains.com,China
 HOST,images-cn.ssl-images-amazon.com,China
 HOST,ip.istatmenus.app,China
 HOST,kc.kexinshe.com,China
-HOST,mtalk.google.com,China
 HOST,origin-a.akamaihd.ne,China
 HOST,origin-a.akamaihd.net,China
 HOST,outlook.office365.com,China
@@ -1416,7 +1414,6 @@ HOST-SUFFIX,gongxiangcj.com,China
 HOST-SUFFIX,gongyi.xin,China
 HOST-SUFFIX,goodread.com,China
 HOST-SUFFIX,goofish.com,China
-HOST-SUFFIX,googletraveladservices.com,China
 HOST-SUFFIX,goosail.com,China
 HOST-SUFFIX,goselling.com,China
 HOST-SUFFIX,goto-game.com,China

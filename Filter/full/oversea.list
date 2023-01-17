@@ -828,6 +828,9 @@ HOST-KEYWORD,instagram,海外服务
 HOST-KEYWORD,twitter,海外服务
 HOST-KEYWORD,whatsapp,海外服务
 HOST-KEYWORD,google,海外服务
+HOST,dl.google.com,海外服务
+HOST,mtalk.google.com,海外服务
+HOST-SUFFIX,googletraveladservices.com,海外服务
 HOST-SUFFIX,1e100.net,海外服务
 HOST-SUFFIX,2mdn.net,海外服务
 HOST-SUFFIX,abc.xyz,海外服务
