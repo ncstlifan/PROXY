@@ -1,9 +1,7 @@
 #海外服务
-
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site,海外服务
 HOST-SUFFIX,tv.emby.media,海外服务
-HOST-SUFFIX,emby.media,海外服务
 HOST-SUFFIX,emby.media,海外服务
 HOST-SUFFIX,emby.xeton.dev,海外服务
 HOST-SUFFIX,tv.emby.neko.re,海外服务
@@ -12,8 +10,6 @@ HOST-SUFFIX,movie.xeton.dev,海外服务
 HOST-SUFFIX,servers.xeton.dev,海外服务
 IP-CIDR,38.94.111.242/32,海外服务
 IP-CIDR,38.94.111.242/22,海外服务
-
-
 # > UA
 USER-AGENT,%E7%BA%BD%E7%BA%A6%E6%97%B6%E6%8A%A5*,海外服务
 USER-AGENT,AwemeI18n*,海外服务
@@ -21,10 +17,8 @@ USER-AGENT,Coinbase*,海外服务
 USER-AGENT,Instagram*,海外服务
 USER-AGENT,Resilio Sync*,海外服务
 USER-AGENT,WhatsApp*,海外服务
-
 # > Google Voice
 HOST,voice.telephony.goog,海外服务
-
 # > Line
 HOST-SUFFIX,lin.ee,海外服务
 HOST-SUFFIX,line.me,海外服务
@@ -33,21 +27,17 @@ HOST-SUFFIX,line-apps.com,海外服务
 HOST-SUFFIX,line-cdn.net,海外服务
 HOST-SUFFIX,line-scdn.net,海外服务
 HOST-SUFFIX,nhncorp.jp,海外服务
-
 # > Pornhub
 HOST-SUFFIX,phncdn.com,海外服务
 HOST-SUFFIX,phprcdn.com,海外服务
 HOST-SUFFIX,pornhub.com,海外服务
 HOST-SUFFIX,pornhubpremium.com,海外服务
 HOST-KEYWORD,pornhub,海外服务
-
-
 # > Spark
 HOST-SUFFIX,api.amplitude.com,海外服务
 HOST-SUFFIX,app.smartmailcloud.com,海外服务
 HOST-SUFFIX,gate.hockeyapp.net,海外服务
 HOST-SUFFIX,smartmailcloud.com,海外服务
-
 # > Steam
 HOST-SUFFIX,fanatical.com,海外服务
 HOST-SUFFIX,humblebundle.com,海外服务
@@ -68,8 +58,6 @@ HOST-SUFFIX,csgo.wmsj.cn,海外服务
 HOST-SUFFIX,dl.steam.clngaa.com,海外服务
 HOST-SUFFIX,dl.steam.ksyna.com,海外服务
 HOST-SUFFIX,dota2.wmsj.cn,海外服务
-HOST-SUFFIX,fanatical.com,海外服务
-HOST-SUFFIX,humblebundle.com,海外服务
 HOST-SUFFIX,playartifact.com,海外服务
 HOST-SUFFIX,s.team,海外服务
 HOST-SUFFIX,st.dl.bscstorage.net,海外服务
@@ -100,8 +88,6 @@ HOST-SUFFIX,wmsjsteam.com,海外服务
 HOST-KEYWORD,steambroadcast,海外服务
 HOST-KEYWORD,steamstore,海外服务
 HOST-KEYWORD,steamuserimages,海外服务
-
-
 # > TikTok
 USER-AGENT,TikTok*,海外服务
 HOST-SUFFIX,muscdn.com,海外服务
@@ -112,18 +98,13 @@ HOST-KEYWORD,-tiktokcdn-com,海外服务
 HOST-SUFFIX,tiktok.com,海外服务
 HOST-SUFFIX,tik-tokapi.com,海外服务
 HOST-SUFFIX,api.tiktokv.com,海外服务
-
-
 # > Zooba
 USER-AGENT,battleroyale*,海外服务
-
 # > PikPak
 HOST-SUFFIX,pikpak.com,海外服务
 HOST-SUFFIX,mypikpak.com,海外服务
 HOST,pikpak.tjsky.net,海外服务
 HOST-KEYWORD,pikpak,海外服务
-
-
 # > Others
 HOST-SUFFIX,jable.tvm,海外服务
 HOST-SUFFIX,qxzy.top,海外服务
@@ -151,8 +132,6 @@ HOST-SUFFIX,m1.nivod.tv,海外服务
 HOST-SUFFIX,xunlangbot.com,海外服务
 HOST-SUFFIX,bet365.com,海外服务
 IP-CIDR,5.226.179.10/22,海外服务
-
- 
 #Discord
 HOST-SUFFIX,discord.co,海外服务
 HOST-SUFFIX,discord.com,海外服务
@@ -164,7 +143,6 @@ HOST-SUFFIX,discord.new,海外服务
 HOST-SUFFIX,discordapp.com,海外服务
 HOST-SUFFIX,discordapp.net,海外服务
 HOST-SUFFIX,discordapp.page.link,海外服务
-
 # > Spotify
 HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,海外服务
 HOST-SUFFIX,byspotify.com,海外服务
@@ -187,7 +165,6 @@ HOST-KEYWORD,spotify.com,海外服务
 USER-AGENT,*Spotify*,海外服务
 USER-AGENT,Spotify*,海外服务
 IP-CIDR,35.186.224.47/32,海外服务
-
 # > YouTube 
 USER-AGENT,*youtube*,海外服务
 USER-AGENT,YouTube*,海外服务
@@ -198,14 +175,12 @@ HOST-SUFFIX,gvt2.com,海外服务
 HOST-SUFFIX,youtu.be,海外服务
 HOST,youtubei.googleapis.com,海外服务
 HOST-SUFFIX,ytimg.com,海外服务
-
 #> YouTubeMusic
 HOST,music.youtube.com,海外服务
 USER-AGENT,*YouTubeMusic*,海外服务
 USER-AGENT,*com.google.ios.youtubemusic*,海外服务
 USER-AGENT,YouTubeMusic*,海外服务
 USER-AGENT,com.google.ios.youtubemusic*,海外服务
-
 #Twitter
 HOST-SUFFIX,ads-twitter.com,海外服务
 HOST-SUFFIX,periscope.tv,海外服务
@@ -234,7 +209,6 @@ IP-CIDR,199.96.56.0/21,海外服务
 IP-CIDR,202.160.128.0/22,海外服务
 IP-CIDR,209.237.192.0/19,海外服务
 IP-CIDR,69.195.160.0/19,海外服务
-
 # > Top blocked sites
 HOST-SUFFIX,2o7.net,海外服务
 HOST-SUFFIX,4everProxy.com,海外服务
@@ -547,7 +521,6 @@ HOST-SUFFIX,panoramio.com,海外服务
 HOST-SUFFIX,parallels.com,海外服务
 HOST-SUFFIX,parse.com,海外服务
 HOST-SUFFIX,pdfexpert.com,海外服务
-HOST-SUFFIX,periscope.tv,海外服务
 HOST-SUFFIX,piaotian.net,海外服务
 HOST-SUFFIX,picacomic.com,海外服务
 HOST-SUFFIX,picasaweb.com,海外服务
@@ -692,13 +665,10 @@ HOST-SUFFIX,tumblr.co,海外服务
 HOST-SUFFIX,tumblr.com,海外服务
 HOST-SUFFIX,turbobit.net,海外服务
 HOST-SUFFIX,tv.com,海外服务
-HOST-SUFFIX,tweetdeck.com,海外服务
 HOST-SUFFIX,tweetmarker.net,海外服务
-HOST-SUFFIX,twimg.co,海外服务
 HOST-SUFFIX,twitch.tv,海外服务
 HOST-SUFFIX,twitthat.com,海外服务
 HOST-SUFFIX,twtkr.com,海外服务
-HOST-SUFFIX,twttr.com,海外服务
 HOST-SUFFIX,txmblr.com,海外服务
 HOST-SUFFIX,typcn.com,海外服务
 HOST-SUFFIX,typekit.net,海外服务
@@ -746,7 +716,6 @@ HOST-SUFFIX,vidinfo.org,海外服务
 HOST-SUFFIX,vimeo.com,海外服务
 HOST-SUFFIX,vimeocdn.com,海外服务
 HOST-SUFFIX,vimperator.org,海外服务
-HOST-SUFFIX,vine.co,海外服务
 HOST-SUFFIX,visibletweets.com,海外服务
 HOST-SUFFIX,viu.com,海外服务
 HOST-SUFFIX,vivaldi.com,海外服务
@@ -808,7 +777,6 @@ HOST-SUFFIX,ying.com,海外服务
 HOST-SUFFIX,yorkbbs.ca,海外服务
 HOST-SUFFIX,youmaker.com,海外服务
 HOST-SUFFIX,yourlisten.com,海外服务
-HOST-SUFFIX,youtu.be,海外服务
 HOST-SUFFIX,yoyo.org,海外服务
 HOST-SUFFIX,zacebook.com,海外服务
 HOST-SUFFIX,zalmos.com,海外服务
@@ -816,7 +784,6 @@ HOST-SUFFIX,zaobao.com.sg,海外服务
 HOST-SUFFIX,zeutch.com,海外服务
 HOST-SUFFIX,zoom.us,海外服务
 HOST-SUFFIX,zynamics.com,海外服务
-
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
 HOST-KEYWORD,appledaily,海外服务
 HOST-KEYWORD,beetalk,海外服务
@@ -825,7 +792,6 @@ HOST-KEYWORD,dropbox,海外服务
 HOST-KEYWORD,facebook,海外服务
 HOST-KEYWORD,github,海外服务
 HOST-KEYWORD,instagram,海外服务
-HOST-KEYWORD,twitter,海外服务
 HOST-KEYWORD,whatsapp,海外服务
 HOST-KEYWORD,google,海外服务
 HOST,dl.google.com,海外服务
@@ -851,7 +817,6 @@ HOST-SUFFIX,fbsbx.com,海外服务
 HOST-SUFFIX,gcr.io,海外服务
 HOST-SUFFIX,gmail.com,海外服务
 HOST-SUFFIX,gosetsuden.jp,海外服务
-HOST-SUFFIX,gvt1.com,海外服务
 HOST-SUFFIX,gwtproject.org,海外服务
 HOST-SUFFIX,heroku.com,海外服务
 HOST-SUFFIX,html5rocks.com,海外服务
@@ -865,19 +830,14 @@ HOST-SUFFIX,netmarble.com,海外服务
 HOST-SUFFIX,nianticlabs.com,海外服务
 HOST-SUFFIX,pinimg.com,海外服务
 HOST-SUFFIX,pubnub.com,海外服务
-HOST-SUFFIX,scdn.co,海外服务
-HOST-SUFFIX,t.co,海外服务
 HOST-SUFFIX,tensorflow.org,海外服务
 HOST-SUFFIX,toggleable.com,海外服务
 HOST-SUFFIX,torproject.org,海外服务
-HOST-SUFFIX,twimg.com,海外服务
-HOST-SUFFIX,twitpic.com,海外服务
 HOST-SUFFIX,unfiltered.news,海外服务
 HOST-SUFFIX,waveprotocol.org,海外服务
 HOST-SUFFIX,webmproject.org,海外服务
 HOST-SUFFIX,webrtc.org,海外服务
 HOST-KEYWORD,dlercloud,海外服务
-
 # >  GitHub
 HOST-SUFFIX,atom.io,GitHub
 HOST-SUFFIX,dependabot.com,GitHub
@@ -908,10 +868,7 @@ HOST-SUFFIX,rawgithub.com,GitHub
 HOST-SUFFIX,repo.new,GitHub
 HOST-SUFFIX,thegithubshop.com,GitHub
 HOST-KEYWORD,github,GitHub
-
-
 # > Google 
-
 HOST,crl.pki.goog,Google
 HOST,fonts.googleapis.com,Google
 HOST,fonts.gstatic.com,Google
@@ -1729,16 +1686,10 @@ IP-CIDR,74.125.28.188/32,GoogleFCM
 # TOTAL: 1
 HOST-KEYWORD,www.google.,GoogleSearch
 # NAME: GoogleVoice
-# UPDATED: 2022-11-03 17:11:05
-# HOST: 1
-# TOTAL: 1
 HOST,lens.l.google.com,GoogleVoice
 # NAME: Chromecast
 # UPDATED: 2022-11-03 17:11:07
-# HOST-KEYWORD: 1
-# TOTAL: 1
 HOST-KEYWORD,pa.google,Chromecast
-
 # > Amazon
 IP-CIDR,13.32.0.0/16,海外服务
 IP-CIDR,13.33.0.0/16,海外服务
@@ -1756,7 +1707,6 @@ IP-CIDR,54.156.0.0/14,海外服务
 IP-CIDR,54.226.0.0/15,海外服务
 IP-CIDR,54.230.156.0/22,海外服务
 IP-CIDR,54.93.0.0/16,海外服务
-
 # > Facebook
 IP-CIDR,103.4.96.0/22,海外服务
 IP-CIDR,129.134.0.0/17,海外服务
@@ -1773,11 +1723,9 @@ IP-CIDR,66.220.144.0/20,海外服务
 IP-CIDR,69.171.224.0/19,海外服务
 IP-CIDR,69.63.176.0/20,海外服务
 IP-CIDR,74.119.76.0/22,海外服务
-
 # > Google
 IP-CIDR,173.194.0.0/16,海外服务
 IP-CIDR,74.125.0.0/16,海外服务
-
 # > Kakao Talk
 IP-CIDR,1.201.0.0/24,海外服务
 IP-CIDR,103.246.56.0/22,海外服务
@@ -1785,7 +1733,6 @@ IP-CIDR,103.27.148.0/22,海外服务
 IP-CIDR,110.76.140.0/22,海外服务
 IP-CIDR,113.61.104.0/22,海外服务
 IP-CIDR,27.0.236.0/22,海外服务
-
 # > LINE
 IP-CIDR,103.2.28.0/22,海外服务
 IP-CIDR,119.235.224.0/21,海外服务
@@ -1800,22 +1747,17 @@ IP-CIDR,203.104.103.0/24,海外服务
 IP-CIDR,203.104.128.0/20,海外服务
 IP-CIDR,203.174.66.64/26,海外服务
 IP-CIDR,203.174.77.0/24,海外服务
-
 # > Potato Chat
 IP-CIDR,13.251.24.157/24,海外服务
 IP-CIDR,13.251.41.203/24,海外服务
 IP-CIDR,17.252.156.147/24,海外服务
 IP-CIDR,17.252.157.26/24,海外服务
-
 # > SoftLayer
 IP-CIDR,74.86.0.0/16,海外服务
 IP-CIDR,75.126.0.0/16,海外服务
 IP-CIDR,174.37.0.0/16,海外服务
 IP-CIDR,208.43.0.0/16,海外服务
-
-# > Others
 HOST,jdsharedresourcescdn.azureedge.net,海外服务
-
 HOST-SUFFIX,account-paypal.info,海外服务
 HOST-SUFFIX,account-paypal.net,海外服务
 HOST-SUFFIX,account-paypal.org,海外服务
@@ -2082,14 +2024,12 @@ HOST-SUFFIX,apisof.net,海外服务
 HOST-SUFFIX,appcenter.ms,海外服务
 HOST-SUFFIX,aria.ms,海外服务
 HOST-SUFFIX,asp.net,海外服务
-HOST-SUFFIX,aspnetcdn.com,海外服务
 HOST-SUFFIX,assets-yammer.com,海外服务
 HOST-SUFFIX,azure-apim.net,海外服务
 HOST-SUFFIX,azure-mobile.net,海外服务
 HOST-SUFFIX,azure-sphere.com,海外服务
 HOST-SUFFIX,azure-test.net,海外服务
 HOST-SUFFIX,azure.cn,海外服务
-HOST-SUFFIX,azure.com,海外服务
 HOST-SUFFIX,azure.net,海外服务
 HOST-SUFFIX,azurecomcdn.net,海外服务
 HOST-SUFFIX,azurecontainer.io,海外服务
@@ -2098,7 +2038,6 @@ HOST-SUFFIX,azuredatabricks.net,海外服务
 HOST-SUFFIX,azuredevopslaunch.com,海外服务
 HOST-SUFFIX,azuredigitaltwin.com,海外服务
 HOST-SUFFIX,azureedge-test.net,海外服务
-HOST-SUFFIX,azureedge.net,海外服务
 HOST-SUFFIX,azureiotcentral.com,海外服务
 HOST-SUFFIX,azureiotsolutions.com,海外服务
 HOST-SUFFIX,azureiotsuite.com,海外服务
@@ -2106,7 +2045,6 @@ HOST-SUFFIX,azurerms.com,海外服务
 HOST-SUFFIX,azureserviceprofiler.com,海外服务
 HOST-SUFFIX,azuresmartspaces.net,海外服务
 HOST-SUFFIX,azurestackvalidation.com,海外服务
-HOST-SUFFIX,azurewebsites.net,海外服务
 HOST-SUFFIX,b.akamaiedge.net,海外服务
 HOST-SUFFIX,bbing.com,海外服务
 HOST-SUFFIX,beth.games,海外服务
@@ -2173,12 +2111,10 @@ HOST-SUFFIX,dot.net,海外服务
 HOST-SUFFIX,dwh5.com,海外服务
 HOST-SUFFIX,dynamics.com,海外服务
 HOST-SUFFIX,e-msedge.net,海外服务
-HOST-SUFFIX,edgesuite.net,海外服务
 HOST-SUFFIX,efproject.net,海外服务
 HOST-SUFFIX,engkoo.com,海外服务
 HOST-SUFFIX,evoke-windowsservices-tas.msedge,海外服务
 HOST-SUFFIX,explorebing.com,海外服务
-HOST-SUFFIX,fabric.io,海外服务
 HOST-SUFFIX,fasttrackreadysupport.com,海外服务
 HOST-SUFFIX,femalefounderscomp.com,海外服务
 HOST-SUFFIX,flipwithsurface.com,海外服务
@@ -2199,9 +2135,7 @@ HOST-SUFFIX,gfx.ms,海外服务
 HOST-SUFFIX,gigjam.com,海外服务
 HOST-SUFFIX,gotcosmos.com,海外服务
 HOST-SUFFIX,graphengine.io,海外服务
-HOST-SUFFIX,helpshift.com,海外服务
 HOST-SUFFIX,heremaps.cn,海外服务
-HOST-SUFFIX,hockeyapp.net,海外服务
 HOST-SUFFIX,hololens.com,海外服务
 HOST-SUFFIX,hotmail.com,海外服务
 HOST-SUFFIX,hummingbird.ms,海外服务
@@ -2224,7 +2158,6 @@ HOST-SUFFIX,kumo.com,海外服务
 HOST-SUFFIX,latampartneruniversity.com,海外服务
 HOST-SUFFIX,live.com,海外服务
 HOST-SUFFIX,live.net,海外服务
-HOST-SUFFIX,livefilestore.com,海外服务
 HOST-SUFFIX,livingyourambition.com,海外服务
 HOST-SUFFIX,localytics.com,海外服务
 HOST-SUFFIX,lync.com,海外服务
@@ -2370,7 +2303,6 @@ HOST-SUFFIX,onestore.ms,海外服务
 HOST-SUFFIX,onmicrosoft.com,海外服务
 HOST-SUFFIX,opentranslatorstothings.org,海外服务
 HOST-SUFFIX,opticsforthecloud.net,海外服务
-HOST-SUFFIX,optimizely.com,海外服务
 HOST-SUFFIX,orithegame.com,海外服务
 HOST-SUFFIX,osdinfra.net,海外服务
 HOST-SUFFIX,outingsapp.com,海外服务
@@ -2407,7 +2339,6 @@ HOST-SUFFIX,sclive.net,海外服务
 HOST-SUFFIX,serverlesslibrary.net,海外服务
 HOST-SUFFIX,sfbassets.com,海外服务
 HOST-SUFFIX,sfbassets.net,海外服务
-HOST-SUFFIX,sfx.ms,海外服务
 HOST-SUFFIX,sharepoint.com,海外服务
 HOST-SUFFIX,sharepointonline.com,海外服务
 HOST-SUFFIX,skype.com,海外服务
@@ -2536,10 +2467,7 @@ USER-AGENT,OneDriveiOSApp*,海外服务
 HOST-SUFFIX,comments.app,海外服务
 HOST-SUFFIX,graph.org,海外服务
 HOST-SUFFIX,stel.com,海外服务
-
 # >Telegram
-HOST-SUFFIX,t.me,海外服务
-HOST-SUFFIX,tdesktop.com,海外服务
 HOST-SUFFIX,telega.one,海外服务
 HOST-SUFFIX,telegra.ph,海外服务
 HOST-SUFFIX,telegram.dog,海外服务
@@ -2601,7 +2529,6 @@ IP6-CIDR,2001:67c:4e8::/48,海外服务
 IP6-CIDR,2001:b28:f23c::/47,海外服务
 IP6-CIDR,2001:b28:f23f::/48,海外服务
 IP6-CIDR,2001:b28:f242::/48,海外服务
-
 #clubhouse
 HOST,clubhouse.pubnub.com,海外服务
 HOST,clubhouseprod.s3.amazonaws.com,海外服务
@@ -2657,54 +2584,24 @@ IP-CIDR,52.52.84.170/32,海外服务
 IP-CIDR,52.58.56.244/32,海外服务
 IP-CIDR,54.178.26.110/32,海外服务
 IP-CIDR,69.28.51.148/32,海外服务
-
 #clubhouse ip
 HOST,ap-oversea-tls.agora.io,海外服务
 HOST,ap-oversea.agora.io,海外服务
 HOST,ap-oversea2.agora.io,海外服务
 HOST,report-oversea.agora.io,海外服务
 IP-CIDR,103.59.49.10/32,海外服务
-IP-CIDR,103.65.41.130/32,海外服务
-IP-CIDR,103.65.41.132/32,海外服务
-IP-CIDR,103.65.41.137/32,海外服务
-IP-CIDR,103.65.41.139/32,海外服务
-IP-CIDR,103.65.41.152/32,海外服务
-IP-CIDR,103.65.41.157/32,海外服务
-IP-CIDR,103.65.41.159/32,海外服务
-IP-CIDR,103.65.41.166/32,海外服务
-IP-CIDR,103.65.41.169/32,海外服务
 IP-CIDR,103.98.18.181/32,海外服务
 IP-CIDR,103.98.18.183/32,海外服务
 IP-CIDR,103.98.18.184/32,海外服务
 IP-CIDR,103.98.18.189/32,海外服务
 IP-CIDR,120.227.115.126/32,海外服务
 IP-CIDR,122.10.255.165/32,海外服务
-IP-CIDR,128.1.105.156/32,海外服务
 IP-CIDR,128.1.87.196/32,海外服务
 IP-CIDR,129.227.115.130/32,海外服务
-IP-CIDR,129.227.234.85/32,海外服务
-IP-CIDR,129.227.57.130/32,海外服务
-IP-CIDR,129.227.57.133/32,海外服务
-IP-CIDR,129.227.57.135/32,海外服务
-IP-CIDR,129.227.57.136/32,海外服务
-IP-CIDR,129.227.57.138/31,海外服务
-IP-CIDR,129.227.57.144/32,海外服务
-IP-CIDR,129.227.57.146/31,海外服务
 IP-CIDR,129.227.71.203/32,海外服务
-IP-CIDR,13.230.60.35/32,海外服务
 IP-CIDR,148.153.126.146/31,海外服务
-IP-CIDR,148.153.172.73/32,海外服务
-IP-CIDR,148.153.172.74/31,海外服务
-IP-CIDR,148.153.172.76/31,海外服务
 IP-CIDR,164.52.0.244/32,海外服务
-IP-CIDR,164.52.102.33/32,海外服务
 IP-CIDR,164.52.102.35/32,海外服务
-IP-CIDR,164.52.102.66/31,海外服务
-IP-CIDR,164.52.102.68/31,海外服务
-IP-CIDR,164.52.102.70/32,海外服务
-IP-CIDR,164.52.102.75/32,海外服务
-IP-CIDR,164.52.102.76/31,海外服务
-IP-CIDR,164.52.102.91/32,海外服务
 IP-CIDR,164.52.124.102/32,海外服务
 IP-CIDR,164.52.32.57/32,海外服务
 IP-CIDR,164.52.32.59/32,海外服务
@@ -2719,40 +2616,20 @@ IP-CIDR,164.52.6.19/32,海外服务
 IP-CIDR,164.52.6.21/32,海外服务
 IP-CIDR,164.52.6.23/32,海外服务
 IP-CIDR,164.52.6.24/31,海外服务
-IP-CIDR,199.190.44.36/31,海外服务
 IP-CIDR,202.181.136.106/31,海外服务
-IP-CIDR,202.181.136.108/32,海外服务
-IP-CIDR,202.181.136.234/32,海外服务
 IP-CIDR,202.226.25.162/32,海外服务
-IP-CIDR,202.226.25.166/32,海外服务
 IP-CIDR,202.226.25.171/32,海外服务
 IP-CIDR,202.226.25.195/32,海外服务
 IP-CIDR,202.226.25.198/32,海外服务
 IP-CIDR,23.248.191.103/32,海外服务
 IP-CIDR,23.248.191.105/32,海外服务
-IP-CIDR,23.98.43.152/32,海外服务
-IP-CIDR,3.0.163.78/32,海外服务
-IP-CIDR,35.156.231.150/32,海外服务
-IP-CIDR,35.168.106.53/32,海外服务
-IP-CIDR,35.178.208.187/32,海外服务
 IP-CIDR,45.255.124.100/31,海外服务
 IP-CIDR,45.255.124.104/31,海外服务
 IP-CIDR,45.255.124.107/32,海外服务
 IP-CIDR,45.255.124.108/31,海外服务
 IP-CIDR,45.255.124.135/32,海外服务
 IP-CIDR,45.255.124.98/32,海外服务
-IP-CIDR,45.40.48.11/32,海外服务
-IP-CIDR,45.40.48.114/32,海外服务
 IP-CIDR,50.17.126.121/32,海外服务
-IP-CIDR,50.18.128.22/32,海外服务
-IP-CIDR,52.178.26.110/32,海外服务
-IP-CIDR,52.194.158.59/32,海外服务
-IP-CIDR,52.221.46.208/32,海外服务
-IP-CIDR,52.52.84.170/32,海外服务
-IP-CIDR,52.58.56.244/32,海外服务
-IP-CIDR,54.178.26.110/32,海外服务
-IP-CIDR,69.28.51.148/32,海外服务
-
 HOST,api.okzy.tv,海外服务
 HOST,apple.comscoreresearch.com,海外服务
 HOST,atv-ps.amazon.com,海外服务
@@ -2788,16 +2665,13 @@ HOST,players.brightcove.net,海外服务
 HOST,rpg.pic-imges.com,海外服务
 HOST,videos-f.jwpsrv.com,海外服务
 #HOST,youtubei.googleapis.com,海外服务
-HOST,yt3.ggpht.com,海外服务
 HOST-SUFFIX,5itv.tv,海外服务
 HOST-SUFFIX,abema.io,海外服务
 HOST-SUFFIX,abema.tv,海外服务
-HOST-SUFFIX,adobedtm.com,海外服务
 HOST-SUFFIX,aiv-cdn.net,海外服务
 HOST-SUFFIX,aiv-delivery.net,海外服务
 HOST-SUFFIX,akamaized.net,海外服务
 HOST-SUFFIX,amazonaws.co.uk,海外服务
-HOST-SUFFIX,amazonaws.com,海外服务
 HOST-SUFFIX,amazonvideo.com,海外服务
 HOST-SUFFIX,ameba.jp,海外服务
 HOST-SUFFIX,api.segment.io,海外服务
@@ -2823,7 +2697,6 @@ HOST-SUFFIX,cbsivideo.com,海外服务
 HOST-SUFFIX,cdn.optimizely.com,海外服务
 HOST-SUFFIX,channel4.com,海外服务
 HOST-SUFFIX,channel5.com,海外服务
-HOST-SUFFIX,cloudfront.net,海外服务
 HOST-SUFFIX,conviva.com,海外服务
 HOST-SUFFIX,d9.flashtalking.com,海外服务
 HOST-SUFFIX,dazn-api.com,海外服务
@@ -2839,7 +2712,6 @@ HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net,海外服务
 HOST-SUFFIX,disneystreaming.com,海外服务
 HOST-SUFFIX,dmc.nico,海外服务
 HOST-SUFFIX,dmm-extension.com,海外服务
-HOST-SUFFIX,dmm.co.jp,海外服务
 HOST-SUFFIX,dmm.com,海外服务
 HOST-SUFFIX,dssott.com,海外服务
 HOST-SUFFIX,dzcdn.net,海外服务
@@ -2847,16 +2719,11 @@ HOST-SUFFIX,edgedatg.com,海外服务
 HOST-SUFFIX,emarsys.net,海外服务
 HOST-SUFFIX,emome.net,海外服务
 HOST-SUFFIX,encoretvb.com,海外服务
-HOST-SUFFIX,fast.com,海外服务
-HOST-SUFFIX,firebaseio.com,海外服务
 HOST-SUFFIX,fox.com,海外服务
 HOST-SUFFIX,foxdcg.com,海外服务
 HOST-SUFFIX,foxplay.com,海外服务
 HOST-SUFFIX,foxplus.com,海外服务
 HOST-SUFFIX,gamer.com.tw,海外服务
-HOST-SUFFIX,go.com,海外服务
-HOST-SUFFIX,googlevideo.com,海外服务
-HOST-SUFFIX,gvt2.com,海外服务
 HOST-SUFFIX,happyon.jp,海外服务
 HOST-SUFFIX,hayabusa.io,海外服务
 HOST-SUFFIX,hbo.com,海外服务
@@ -2868,7 +2735,6 @@ HOST-SUFFIX,hbomax.com,海外服务
 HOST-SUFFIX,hbomaxcdn.com,海外服务
 HOST-SUFFIX,hbonow.com,海外服务
 HOST-SUFFIX,himalaya.com,海外服务
-HOST-SUFFIX,hinet.net,海外服务
 HOST-SUFFIX,hjholdings.jp,海外服务
 HOST-SUFFIX,hulu.com,海外服务
 HOST-SUFFIX,hulu.hb.omtrdc.net,海外服务
@@ -2895,7 +2761,6 @@ HOST-SUFFIX,japronx.tv,海外服务
 HOST-SUFFIX,japronx.vip,海外服务
 HOST-SUFFIX,joox.com,海外服务
 HOST-SUFFIX,js-agent.newrelic.com,海外服务
-HOST-SUFFIX,jtvnw.net,海外服务
 HOST-SUFFIX,jwpcdn.com,海外服务
 HOST-SUFFIX,jwplayer.com,海外服务
 HOST-SUFFIX,kfs.io,海外服务
@@ -2905,11 +2770,8 @@ HOST-SUFFIX,kktv.com.tw,海外服务
 HOST-SUFFIX,kktv.me,海外服务
 HOST-SUFFIX,linetv.tw,海外服务
 HOST-SUFFIX,litv.tv,海外服务
-HOST-SUFFIX,llnwd.net,海外服务
 HOST-SUFFIX,media-amazon.com,海外服务
 HOST-SUFFIX,mstage.io,海外服务
-HOST-SUFFIX,muscdn.com,海外服务
-HOST-SUFFIX,musical.ly,海外服务
 HOST-SUFFIX,my5.tv,海外服务
 HOST-SUFFIX,mytvsuper.com,海外服务
 HOST-SUFFIX,naver.com,海外服务
@@ -2941,43 +2803,30 @@ HOST-SUFFIX,p-cdn.us,海外服务
 HOST-SUFFIX,pandora.com,海外服务
 HOST-SUFFIX,paramountplus.com,海外服务
 HOST-SUFFIX,pbs.org,海外服务
-HOST-SUFFIX,phncdn.com,海外服务
-HOST-SUFFIX,phprcdn.com,海外服务
-HOST-SUFFIX,pornhub.com,海外服务
-HOST-SUFFIX,pornhubpremium.com,海外服务
 HOST-SUFFIX,pplusstatic.com,海外服务
 HOST-SUFFIX,primevideo.com,海外服务
 HOST-SUFFIX,prod.hjholdings.tv,海外服务
 HOST-SUFFIX,profile.line-scdn.net,海外服务
-HOST-SUFFIX,pscdn.co,海外服务
 HOST-SUFFIX,qobuz.com,海外服务
-HOST-SUFFIX,scdn.co,海外服务
 HOST-SUFFIX,segment.com,海外服务
 HOST-SUFFIX,sentry.io,海外服务
 HOST-SUFFIX,skyking.com.tw,海外服务
 HOST-SUFFIX,smartmediarep.com,海外服务
-HOST-SUFFIX,sndcdn.com,海外服务
 HOST-SUFFIX,socdm.com,海外服务
-HOST-SUFFIX,soundcloud.com,海外服务
 HOST-SUFFIX,streaks.jp,海外服务
 HOST-SUFFIX,theplatform.com,海外服务
 HOST-SUFFIX,tidal.com,海外服务
 HOST-SUFFIX,tidal.comdia,海外服务
 HOST-SUFFIX,tidalhifi.com,海外服务
-HOST-SUFFIX,ttvnw.net,海外服务
 HOST-SUFFIX,tv.apple.com,海外服务
 HOST-SUFFIX,tvb.com,海外服务
 HOST-SUFFIX,tver.jp,海外服务
-HOST-SUFFIX,twitch.tv,海外服务
 HOST-SUFFIX,twitchcdn.net,海外服务
 HOST-SUFFIX,uplynk.com,海外服务
 HOST-SUFFIX,urlload.net,海外服务
-HOST-SUFFIX,viu.com,海外服务
 HOST-SUFFIX,viu.tv,海外服务
 HOST-SUFFIX,yb.uncn.jp,海外服务
 HOST-SUFFIX,youboranqs01.com,海外服务
-HOST-SUFFIX,ytimg.com,海外服务
-HOST-KEYWORD,-tiktokcdn-com,海外服务
 HOST-KEYWORD,abematv.akamaized.net,海外服务
 HOST-KEYWORD,avoddashs,海外服务
 HOST-KEYWORD,bbcfmt,海外服务
@@ -3525,7 +3374,6 @@ IP-CIDR,24.220.183.156/31,海外服务
 IP-CIDR,24.220.183.158/32,海外服务
 IP-CIDR,24.222.87.162/32,海外服务
 IP-CIDR,34.210.42.111/32,海外服务
-IP-CIDR,35.186.224.47/32,海外服务
 IP-CIDR,37.143.80.10/32,海外服务
 IP-CIDR,37.143.80.14/32,海外服务
 IP-CIDR,37.143.80.6/32,海外服务

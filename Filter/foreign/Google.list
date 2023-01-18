@@ -9,7 +9,6 @@
 # Author：ncstlifan
 # Created Date： 2023/01/15
 # UpDated Date： 2023/01/15
-
 HOST,crl.pki.goog,Google
 HOST,fonts.googleapis.com,Google
 HOST,fonts.gstatic.com,Google
@@ -751,7 +750,6 @@ IP6-CIDR,2620:120:e000::/40,Google
 # UPDATED: 2022-11-03 17:09:28
 # HOST: 1
 # HOST-SUFFIX: 4
-# USER-AGENT: 3
 # TOTAL: 8
 HOST,www.googleapis.com,GoogleDrive
 HOST-SUFFIX,docs.google.com,GoogleDrive
@@ -827,12 +825,7 @@ IP-CIDR,74.125.28.188/32,GoogleFCM
 # TOTAL: 1
 HOST-KEYWORD,www.google.,GoogleSearch
 # NAME: GoogleVoice
-# UPDATED: 2022-11-03 17:11:05
-# HOST: 1
-# TOTAL: 1
 HOST,lens.l.google.com,GoogleVoice
 # NAME: Chromecast
 # UPDATED: 2022-11-03 17:11:07
-# HOST-KEYWORD: 1
-# TOTAL: 1
 HOST-KEYWORD,pa.google,Chromecast

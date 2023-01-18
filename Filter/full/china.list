@@ -3,7 +3,6 @@
 # Created Date： 2023/01/15
 # UpDated Date： 2023/01/15
 # UPDATED: 2023-01-16 02:11:21
-
 # HOST: 18
 # HOST-KEYWORD: 9
 # HOST-SUFFIX: 3530
@@ -3169,19 +3168,16 @@ HOST-SUFFIX,wechat.com,China
 HOST-SUFFIX,wegame.com,China
 HOST-SUFFIX,wegamedeveloper.com,China
 HOST-SUFFIX,wegameplus.com,China
-
 # > 微博服务
 #HOST-SUFFIX,weibocdn.com,China
 #HOST-SUFFIX,weibo.com,微博服务
 #HOST-SUFFIX,weibo.cn,微博服务
-#HOST-SUFFIX,weibo.com,微博服务
 #HOST-SUFFIX,weibocdn.com,微博服务
 #HOST-SUFFIX,sinaapp.com,微博服务
 #HOST-SUFFIX,sinaimg.cn,微博服务
 #HOST-SUFFIX,sinaimg.com,微博服务
 #HOST-SUFFIX,sina.com,微博服务
 #HOST-SUFFIX,sina.cn,微博服务
-
 HOST-SUFFIX,weicaifu.com,China
 HOST-SUFFIX,weico.cc,China
 HOST-SUFFIX,weidian.com,China
@@ -3621,11 +3617,7 @@ IP6-CIDR,2a0b:b580::/48,China
 IP6-CIDR,2a0b:b581::/48,China
 IP6-CIDR,2a0b:b582::/48,China
 IP6-CIDR,2a0b:b583::/48,China
-
-
 # > Tencent 
-# > Tencent 
-
 HOST-SUFFIX,1700.cn,china
 HOST-SUFFIX,17roco.com,china
 HOST-SUFFIX,700chat.com,china
