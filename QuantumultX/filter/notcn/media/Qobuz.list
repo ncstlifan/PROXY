@@ -1,0 +1,9 @@
+# > Qobuz
+host-suffix,cobeuz.fr,Qobuz
+host-suffix,cobuz.fr,Qobuz
+host-suffix,cobuzz.fr,Qobuz
+host-suffix,kobuz.fr,Qobuz
+host-wildcard,qobuz.*,Qobuz
+host-suffix,static-qobuz.com,Qobuz
+ip-cidr,52.211.1.180/32,Qobuz
+ip-cidr,99.81.97.56/32,Qobuz

@@ -1,0 +1,4 @@
+# Deezer
+user-agent,Deezer*,Deezer
+host-suffix,deezer.com,Deezer
+host-suffix,dzcdn.net,Deezer

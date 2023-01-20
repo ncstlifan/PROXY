@@ -1,0 +1,4 @@
+# > Apple TV
+host,np-edge.itunes.apple.com,AppleTV
+host,play-edge.itunes.apple.com,AppleTV
+host-suffix,tv.apple.com,AppleTV
