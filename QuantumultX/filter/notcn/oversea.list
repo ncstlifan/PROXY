@@ -101,11 +101,12 @@ HOST-SUFFIX,api.tiktokv.com,海外服务
 # > Zooba
 USER-AGENT,battleroyale*,海外服务
 # > PikPak
-HOST-SUFFIX,pikpak.com,海外服务
-HOST-SUFFIX,mypikpak.com,海外服务
 HOST,pikpak.tjsky.net,海外服务
 HOST,access.mypikpak.com,海外服务
+HOST-SUFFIX,pikpak.com,海外服务
+HOST-SUFFIX,mypikpak.com,海外服务
 HOST-KEYWORD,pikpak,海外服务
+HOST-KEYWORD,mypikpak.com,海外服务
 # > Others
 HOST-SUFFIX,jable.tvm,海外服务
 HOST-SUFFIX,qxzy.top,海外服务
