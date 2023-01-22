@@ -104,6 +104,7 @@ USER-AGENT,battleroyale*,海外服务
 HOST-SUFFIX,pikpak.com,海外服务
 HOST-SUFFIX,mypikpak.com,海外服务
 HOST,pikpak.tjsky.net,海外服务
+HOST,access.mypikpak.com,海外服务
 HOST-KEYWORD,pikpak,海外服务
 # > Others
 HOST-SUFFIX,jable.tvm,海外服务
