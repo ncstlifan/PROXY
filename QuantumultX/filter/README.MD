@@ -4,6 +4,12 @@
 
 
 
+by [ncstlifan](https://github.com/ncstlifan/)
+
+
+
+
+
 ### China
 
 ①建议独立使用 “微博服务”规则
@@ -39,7 +45,7 @@
 
 ### Oversea
 
-建议独立使用Apple 和微博规则分流
+建议独立使用Apple 分流规则
 
 Google	Github	Microsoft	PikPak	Youtube	Twitter
 
