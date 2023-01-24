@@ -1,14 +1,11 @@
-# Name: 微博
+# > 微博
 # Author：ncstlifan
-# Created Date： 2023/01/15
+# Created Date： 2023/01/24
 # UpDated Date： 2023/01/15
-
 
 HOST-SUFFIX,weibo.com,微博服务
 HOST-SUFFIX,weibo.cn,微博服务
 HOST-SUFFIX,weibo.com,微博服务
-HOST-SUFFIX,weibocdn.com,微博服务
-
 
 HOST-SUFFIX,sinaapp.com,微博服务
 HOST-SUFFIX,sinaimg.cn,微博服务
@@ -16,6 +13,5 @@ HOST-SUFFIX,sinaimg.com,微博服务
 HOST-SUFFIX,sina.com,微博服务
 HOST-SUFFIX,sina.cn,微博服务
 
-
-# USER-AGENT,MOO%E9%9F%B3%E4%B9%90*,Tencent
-# IP-CIDR,129.226.3.47/32,Tencent
+HOST-KEYWORD,weibocdn,大陆服务
+HOST-SUFFIX,weibocdn.com,大陆服务

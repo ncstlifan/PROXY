@@ -22,16 +22,48 @@ by [ncstlifan](https://github.com/ncstlifan/)
 #HOST-SUFFIX,weibo.com,微博服务
 #HOST-SUFFIX,weibo.cn,微博服务
 #HOST-SUFFIX,weibo.com,微博服务
-#HOST-SUFFIX,weibocdn.com,微博服务
 #HOST-SUFFIX,sinaapp.com,微博服务
 #HOST-SUFFIX,sinaimg.cn,微博服务
 #HOST-SUFFIX,sinaimg.com,微博服务
 #HOST-SUFFIX,sina.com,微博服务
 #HOST-SUFFIX,sina.cn,微博服务
 
+#HOST-KEYWORD,weibocdn,大陆服务
+#HOST-SUFFIX,weibocdn.com,大陆服务
+
 ```
 
 以上规则已注释
+
+
+
+# > 微博服务
+#HOST-SUFFIX,weibocdn.com,China
+#HOST-SUFFIX,weibo.com,微博服务
+#HOST-SUFFIX,weibo.cn,微博服务
+#HOST-SUFFIX,weibo.com,微博服务
+#HOST-SUFFIX,sinaapp.com,微博服务
+#HOST-SUFFIX,sinaimg.cn,微博服务
+#HOST-SUFFIX,sinaimg.com,微博服务
+#HOST-SUFFIX,sina.com,微博服务
+#HOST-SUFFIX,sina.cn,微博服务
+#HOST-KEYWORD,weibocdn,微博服务
+#HOST-SUFFIX,weibocdn.com,微博服务
+#HOST-SUFFIX,weibo.com,微博服务
+#HOST-SUFFIX,weibo.cn,微博服务
+#HOST-SUFFIX,weibo.com,微博服务
+#HOST-SUFFIX,sinaapp.com,微博服务
+#HOST-SUFFIX,sinaimg.cn,微博服务
+#HOST-SUFFIX,sinaimg.com,微博服务
+#HOST-SUFFIX,sina.com,微博服务
+#HOST-SUFFIX,sina.cn,微博服务
+#HOST-KEYWORD,weibocdn,大陆服务
+#HOST-SUFFIX,weibocdn.com,大陆服务
+#HOST-SUFFIX,sinaapp.com,微博服务
+#HOST-SUFFIX,sinaimg.cn,微博服务
+#HOST-SUFFIX,sinaimg.com,微博服务
+#HOST-SUFFIX,sina.com,微博服务
+#HOST-SUFFIX,sina.cn,微博服务
 
 
 
