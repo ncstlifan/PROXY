@@ -1,12 +1,8 @@
-# > 微博
+# > 微博服务
 # Author：ncstlifan
-# Created Date： 2023/01/24
-# UpDated Date： 2023/01/15
 
-HOST-SUFFIX,weibo.com,微博服务
 HOST-SUFFIX,weibo.cn,微博服务
 HOST-SUFFIX,weibo.com,微博服务
-
 HOST-SUFFIX,sinaapp.com,微博服务
 HOST-SUFFIX,sinaimg.cn,微博服务
 HOST-SUFFIX,sinaimg.com,微博服务
@@ -14,4 +10,5 @@ HOST-SUFFIX,sina.com,微博服务
 HOST-SUFFIX,sina.cn,微博服务
 
 HOST-KEYWORD,weibocdn,大陆服务
+HOST-SUFFIX,weibocdn.cn,大陆服务
 HOST-SUFFIX,weibocdn.com,大陆服务
