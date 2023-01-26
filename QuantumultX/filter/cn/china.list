@@ -1,7 +1,11 @@
 # > China
 # > Author : ncstlifan
 # > Github : https://github.com/ncstlifan/
+HOST-SUFFIX,console.aliyun.com,大陆服务
+HOST-SUFFIX,usercenter2.aliyun.com,大陆服务
+HOST-SUFFIX,developer.aliyun.com,大陆服务
 HOST,p.bstarstatic.com,大陆服务
+HOST-SUFFIX,pass.1688.com,大陆服务
 HOST,analytics.strava.com,大陆服务
 HOST,blzddist1-a.akamaihd.net,大陆服务
 HOST,client.amplifi.com,大陆服务

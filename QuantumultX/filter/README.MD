@@ -39,7 +39,7 @@ by [ncstlifan](https://github.com/ncstlifan/)
 
 
 
-②常用网页分流规则，包括但不限于
+②常用分流规则，包括但不限于
 
 腾讯服务	斗鱼	抖音	知乎
 
