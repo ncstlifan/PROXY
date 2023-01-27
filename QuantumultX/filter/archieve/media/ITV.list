@@ -1,5 +1,0 @@
-# ITV
-user-agent,ITV_Player*,ITV
-host-suffix,itv.com,ITV
-host-suffix,itvstatic.com,ITV
-host,itvpnpmobile-a.akamaihd.net,ITV
