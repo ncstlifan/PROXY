@@ -1,8 +1,29 @@
-# > filter.snippet	//ncstlifan	// https://github.com/ncstlifan
+# > filter.snippet//ncstlifan// https://github.com/ncstlifan
 # > 
 
 ########################以下域名详情已知#######################
-
+# > 绕过Apple企业证书过期
+HOST,ocsp.apple.com,REJECT
+# > 屏蔽Youtube++底部广告
+HOST-suffix, ehg-youtube.hitbox.com, REJECT
+# > 避免迅雷版权问题
+HOST, hub5idx.v6.shub.sandai.net, REJECT
+HOST, hub5emu.v6.shub.sandai.net, REJECT
+HOST, hub5btmain.v6.shub.sandai.net, REJECT
+# > 微博
+HOST-SUFFIX,weibo.cn,微博
+HOST-SUFFIX,weibo.com,微博
+HOST-SUFFIX,weibocdn.cn,大陆服务
+HOST-SUFFIX,weibocdn.com,大陆服务
+HOST-SUFFIX,sinaapp.com,微博
+HOST-SUFFIX,sinaimg.cn,微博
+HOST-SUFFIX,sinaimg.com,微博
+HOST-SUFFIX,sina.com,微博
+HOST-SUFFIX,sina.cn,微博
+HOST-KEYWORD,weibocdn,大陆服务
+HOST-KEYWORD,weibo,微博
+# > ccaeo 
+HOST-SUFFIX,ccaeo.com,海外服务
 # > 低价机场
 HOST,xn--6nq0hk9tdjr.com,海外服务
 # > 三分机场
@@ -16,16 +37,7 @@ HOST,xn--ehq00hgtfdmt.xyz,海外服务
 HOST,console.henet.uk,海外服务
 # > EFCloud
 HOST,efcloud.cc,海外服务
-# > ccaeo 
-HOST-SUFFIX,ccaeo.com,海外服务
-# > 绕过Apple企业证书过期
-HOST,ocsp.apple.com,REJECT
-# > 屏蔽Youtube++底部广告
-host-suffix, ehg-youtube.hitbox.com, reject
-# > 避免迅雷版权问题
-host, hub5idx.v6.shub.sandai.net, reject
-host, hub5emu.v6.shub.sandai.net, reject
-host, hub5btmain.v6.shub.sandai.net, reject
+
 
 
 ########################以下域名详情未知#######################
